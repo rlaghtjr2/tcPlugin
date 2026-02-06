@@ -1,0 +1,11 @@
+{
+  "name": "tc-helper-marketplace",
+  "description": "TC Helper 플러그인 마켓플레이스",
+  "plugins": [
+    {
+      "name": "tc-helper",
+      "description": "Git 변경사항에 대한 TC 확인 및 자동 생성",
+      "source": "."
+    }
+  ]
+}
