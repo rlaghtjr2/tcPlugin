@@ -1,0 +1,9 @@
+{
+  "name": "tc-helper",
+  "version": "1.0.0",
+  "description": "Git 변경사항에 대한 TC(Test Case) 확인 및 자동 생성 플러그인",
+  "author": {
+    "name": "nhn"
+  },
+  "keywords": ["testing", "junit5", "test-case", "java"]
+}
