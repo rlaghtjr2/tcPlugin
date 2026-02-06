@@ -8,7 +8,7 @@
       {
         "name": "tc-helper",
         "description": "Git 변경사항에 대한 TC 확인 및 자동 생성",
-        "source": "."
+        "source": "./tc-helper"
       }
     ]
   }
